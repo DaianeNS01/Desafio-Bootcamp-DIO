@@ -1,5 +1,4 @@
-# Desafio Bootcamp DIO
-# 🎙️ Assistente de Voz Multi-Idiomas com Whisper e ChatGPT
+# Desafio Bootcamp DIO # 🎙️ Assistente de Voz Multi-Idiomas com Whisper e ChatGPT
 Este projeto implementa um assistente de voz capaz de reconhecer múltiplos idiomas usando **Whisper** (OpenAI) e gerar respostas inteligentes com **ChatGPT**, replicado o Lab criado em aula.
 
 ## 🚀 Funcionalidades
